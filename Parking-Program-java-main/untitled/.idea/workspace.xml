@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="545faa3e-70df-4c3d-8f7b-c3282208bb4d" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GcTQj1jidAQpAOrD085THXbNMJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/고동민/Desktop/자바팀플 20192601 고동민/새 폴더&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\고동민\Desktop\자바팀플 20192601 고동민\새 폴더\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mFrame.base" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="새 폴더" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="새 폴더" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.base" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="545faa3e-70df-4c3d-8f7b-c3282208bb4d" name="변경" comment="" />
+      <created>1666686857822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666686857822</updated>
+      <workItem from="1666686858901" duration="38000" />
+      <workItem from="1666686917631" duration="2000" />
+      <workItem from="1666686932075" duration="1059000" />
+      <workItem from="1666749396122" duration="2000" />
+      <workItem from="1666788977226" duration="309000" />
+      <workItem from="1666840869862" duration="75000" />
+      <workItem from="1666844584290" duration="3440000" />
+      <workItem from="1667118761596" duration="5184000" />
+      <workItem from="1667207665733" duration="212000" />
+      <workItem from="1667360893323" duration="713000" />
+      <workItem from="1667363854936" duration="4287000" />
+      <workItem from="1667371347521" duration="12000" />
+      <workItem from="1667384624757" duration="5597000" />
+      <workItem from="1667529825653" duration="10000" />
+      <workItem from="1667533007906" duration="735000" />
+      <workItem from="1667534010216" duration="3466000" />
+      <workItem from="1667538658325" duration="1413000" />
+      <workItem from="1667540145777" duration="3000" />
+      <workItem from="1667540376046" duration="7000" />
+      <workItem from="1667877956517" duration="1262000" />
+      <workItem from="1667880334343" duration="6955000" />
+      <workItem from="1667900606223" duration="184000" />
+      <workItem from="1667985203020" duration="134000" />
+      <workItem from="1668176032386" duration="1127000" />
+      <workItem from="1668177186884" duration="18000" />
+      <workItem from="1668177211389" duration="103000" />
+      <workItem from="1668177410142" duration="302000" />
+      <workItem from="1668177726281" duration="74000" />
+      <workItem from="1668180041177" duration="256000" />
+      <workItem from="1668180307552" duration="87000" />
+      <workItem from="1668180984916" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
